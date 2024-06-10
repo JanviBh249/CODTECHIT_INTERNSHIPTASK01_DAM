@@ -1,4 +1,5 @@
 # CODTECHIT_INTERNSHIPTASK01_DAM
+This repository contains code and resources of my Task 1.
 
 ## Project Report
 
